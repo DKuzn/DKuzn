@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DKuzn
-- 👀 I’m interested in machine learning and software developoment.
+- 👀 I’m interested in machine learning and software development.
 - 🌱 I’m currently bachelor student in Information Systems and Technologies.
 - 📫 How to reach me: dkuznetsov2000@outlook.com
 
