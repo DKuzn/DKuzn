@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DKuzn
 - 👀 I’m interested in machine learning and software development.
-- 🌱 I’m currently bachelor student in Information Systems and Technologies.
+- 🌱 I’m currently master student in Intelligent Information Systems.
 - 📫 How to reach me: dkuznetsov2000@outlook.com
 
 [![DKuzn's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKuzn)](https://github.com/anuraghazra/github-readme-stats)
